@@ -1,6 +1,10 @@
 # gocraft-work-example
-An example CLI program for showcasing [gocraft/work](github.com/gocraft/work)
+An example CLI program for showcasing [gocraft/work](https://github.com/gocraft/work)
 
+### Requirements
+You will need Redis and godep installed
+
+### Get it running
 ```
 dep ensure
 go build
